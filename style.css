@@ -36,7 +36,7 @@
 .social-item a svg{
     width: 30px;
 }
-.cv-download{
+.curriculo-download{
     padding: 10px 8px;
     background-color: #FFF;
     margin-bottom: 2rem;
@@ -46,7 +46,7 @@
     border:  2px solid transparent;
     transition: all 0.2s ease-in-out;
 }
-.cv-download:hover{
+.curriculo-download:hover{
     border: 2px solid #FFF;
     color: #FFF;
     background-color: #13131a;
